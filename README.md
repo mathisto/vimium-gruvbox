@@ -1,7 +1,6 @@
-# vimium-gruvbox
-Forked version of vimium-dark-themes.
-This fork only contains the gruvbox theme.
-Also, I changed up the colors a bit and removed variables, as they break some website's css.
+# vimium-gruvbox-material
+Forked version of vimium-gruvbox which is in turn a fork of vimium-dark-themes.
+This fork only contains the gruvbox-material theme.
 
 ## Usage
 In Vimium Options: `Show Advanced Options` then paste into `CSS for Vimium UI`
